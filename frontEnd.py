@@ -59,5 +59,4 @@ class ClientApp:
             messagebox.showwarning("Null Message", "Cannot send empty message!")
 
 
-if __name__ == '__main__':
-    client = ClientApp('Pritam')
+
